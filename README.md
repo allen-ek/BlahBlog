@@ -1,2 +1,2 @@
 # BlogIt
-Social Blog Site
+Tech Blog Site
