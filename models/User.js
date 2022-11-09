@@ -27,7 +27,7 @@ User.init(
       allowNull: false,
       //make sure pass has min of 6chars
       validate: {
-        len: [6],
+        len: [2],
       },
     },
   },
